@@ -66,6 +66,7 @@ Develop Guidance for state and nearby organizations that guides in distinguishin
 The consideration models will be all organizations, business associations and government establishments that are utilizing private systems administration frameworks for their capacities and respectability. The avoidance measures will be any business or office that utilizes public organization frameworks for its capacities (5). The discoveries of this undertaking will be carried out by numerous associations to guarantee that their information, frameworks, and organizations are protected from digital assault. The discoveries will be given as inputs to all associations and foundations for them to work on as per the proposed proposals. 
 
 The different advances included are introduced in the following flowchart:- 
+
 ![image](https://user-images.githubusercontent.com/88690047/129828367-458036c4-91a6-45e6-9fda-32f6eb121346.png)
 
 ### VISSIM Simulation 
